@@ -12,7 +12,7 @@ image:
 
 
 
-## My biodata:
+## Biodata:
 
 * Nama : Mila yuli yanti
 * TTl : 10 November 1994
