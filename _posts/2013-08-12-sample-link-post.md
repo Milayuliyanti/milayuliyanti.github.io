@@ -1,6 +1,6 @@
 ---
 layout: post
-title: " Mila yuli yanti"
+title: " Jurusan sistem informasi"
 excerpt: "Example and code for using link posts."
 tags: [sample post, link post]
 link: http://mademistakes.com  
