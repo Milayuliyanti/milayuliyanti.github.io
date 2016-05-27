@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sample mila yuli yanti
+title: jurusan sistem informasi
 excerpt: "Just about everything you'll need to style in the theme: headings, paragraphs, blockquotes, tables, code blocks, and more."
 modified: 2016-05-26
 tags: [intro, beginner, jekyll, tutorial]
