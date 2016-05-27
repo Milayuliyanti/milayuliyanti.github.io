@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Testing Readability with a Bunch of Text"
+title: "Testing Readability with a text mila yuli yanti"
 excerpt: "A ton of text to test readability."
 tags: [sample post, readability, test]
 comments: true
