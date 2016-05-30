@@ -1,6 +1,6 @@
 ---
 layout: post
-title: nama mila yuli yanti, Fakultas Sains dan Teknologi
+title: mila yuli yanti, Fakultas Sains dan Teknologi
 excerpt: "Jurusan Sistem Informasi"
 modified: 2016-05-26
 tags: [intro, beginner, jekyll, tutorial]
