@@ -1,9 +1,9 @@
 ---
 layout: post
-title: " Jurusan sistem informasi"
-excerpt: "Example and code for using link posts."
+title: " UIN SUSKA RIAU"
+excerpt: "jl.Soebrantas, Panam"
 tags: [sample post, link post]
-link: http://mademistakes.com  
+link: http://uin-suska.ac.id  
 share: true
 ---
 
