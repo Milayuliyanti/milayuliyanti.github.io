@@ -21,7 +21,7 @@ image:
 * Hobby : listen to music
 * [uin](http://uin-suska.ac.id)
 * [sif](http://sif.uin-suska.ac.id)
-* 
+
 
 
 <a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install Minimal Mistakes Theme</a>
