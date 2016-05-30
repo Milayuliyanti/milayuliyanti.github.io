@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Syntax post with mila
-excerpt: "Demo post displaying the various ways of highlighting code in Markdown."
+title: Program Studi
+excerpt: "SISTEM INFORMASI"
 tags: [sample post, code, highlighting]
 modified: 2014-09-14
 comments: true
